@@ -1,1 +1,1 @@
-# PRO-C173-Boilerplate-main
+# PRO-C173-Boilerplate
